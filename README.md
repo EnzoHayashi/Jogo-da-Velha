@@ -40,11 +40,11 @@ O jogo termina quando um jogador vence ou há empate.
 
 O tabuleiro possui posições numeradas de 1 a 9:
 
-1 | 2 | 3
+**1 | 2 | 3**
 ---------
-4 | 5 | 6
+**4 | 5 | 6**
 ---------
-7 | 8 | 9
+**7 | 8 | 9**
 
 Vitória ocorre ao completar uma linha, coluna ou diagonal com o mesmo símbolo.
 
@@ -72,11 +72,11 @@ main → Controla o fluxo do jogo, alterna jogadores e recebe entradas do usuár
 
 ## 📸 Exemplo de Jogada
 
-X | O | 3
+**X | O | 3**
 ---------
-4 | X | 6
+**4 | X | 6**
 ---------
-O | 8 | X
+**O | 8 | X**
 
 Resultado: 🏆 Jogador X venceu pela diagonal principal!
 
