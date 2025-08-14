@@ -46,7 +46,6 @@ O tabuleiro possui posições numeradas de 1 a 9:
 ---------
 7 | 8 | 9
 
-
 Vitória ocorre ao completar uma linha, coluna ou diagonal com o mesmo símbolo.
 
 Empate ocorre quando todas as posições estiverem ocupadas sem um vencedor.
@@ -78,8 +77,6 @@ X | O | 3
 4 | X | 6
 ---------
 O | 8 | X
-
----
 
 Resultado: 🏆 Jogador X venceu pela diagonal principal!
 
