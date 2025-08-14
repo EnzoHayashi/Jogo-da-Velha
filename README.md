@@ -45,6 +45,7 @@ O tabuleiro possui posições numeradas de 1 a 9:
 **4 | 5 | 6**
 ---------
 **7 | 8 | 9**
+---------
 
 Vitória ocorre ao completar uma linha, coluna ou diagonal com o mesmo símbolo.
 
@@ -77,6 +78,7 @@ main → Controla o fluxo do jogo, alterna jogadores e recebe entradas do usuár
 **4 | X | 6**
 ---------
 **O | 8 | X**
+---------
 
 Resultado: 🏆 Jogador X venceu pela diagonal principal!
 
